@@ -21,8 +21,7 @@
 // 7 * 5 = 35
 // 7 / 5 = 1
 // 7 % 5 = 2
-
-
+//code
 #include<iostream>
 using namespace std;
 int main()
